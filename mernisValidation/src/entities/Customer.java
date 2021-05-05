@@ -5,11 +5,11 @@ import abstract_.Entity;
 public class Customer  implements Entity {
 	   
 	//fields
-	int id;
-	String firstName;
-	String lastName;
-	String dateOfBirth;
-	String nationalityId;
+	private int id;
+	private String firstName;
+	private String lastName;
+	private String dateOfBirth;
+	private String nationalityId;
 	
 	
 	//constructor
